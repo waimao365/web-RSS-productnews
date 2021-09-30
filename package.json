@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/I-Valchev/productnews/issues"
   },
-  "homepage": "https://github.com/I-Valchev/productnews#readme",
+  "homepage": "https://productnews.vercel.app",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
     "luxon": "^1.27.0",
